@@ -1,4 +1,4 @@
-// Preemptive CPU scheduling algorithms implementation in C
+// Preemptive Priority CPU scheduling algorithms implementation in C
 
 // Author: Nikhil Singh
 // Last Modified: 20/06/2022
