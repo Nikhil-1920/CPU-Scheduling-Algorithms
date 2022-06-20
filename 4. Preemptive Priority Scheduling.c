@@ -1,4 +1,4 @@
-// Preemptive Shortest-Job-First(SJF) CPU scheduling algorithms implementation in C
+// Preemptive CPU scheduling algorithms implementation in C
 
 // Author: Nikhil Singh
 // Last Modified: 20/06/2022
